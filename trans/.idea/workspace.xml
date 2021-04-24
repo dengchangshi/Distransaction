@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db61ada7-1183-45f6-a363-112f2bf3a682" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1rYmuiRCRhhjKdUmEpSvmEw9zZj" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taven-springboot-learning/spring-atomikos" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeataBusi">
+    <configuration name="BusiApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trans-busi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.BusiApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LcnBusi" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-busi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.LcnBusi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LcnService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.LcnService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataBusi" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-busi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.SeataBusi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.SeataService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TmManager" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lcn-tm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.TmManager" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransXA" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="trans-xa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.enjoy.TransXA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <option name="contentProportion" value="0.17715232" />
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db61ada7-1183-45f6-a363-112f2bf3a682" name="Default Changelist" comment="" />
+      <created>1619161621867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619161621867</updated>
+      <workItem from="1619161626573" duration="4541000" />
+      <workItem from="1619168014668" duration="5032000" />
+      <workItem from="1619258468796" duration="1470000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

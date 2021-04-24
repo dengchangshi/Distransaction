@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seata-service" />
+        <module name="trans-xa" />
+        <module name="lcn-tm" />
+        <module name="trans-busi" />
+        <module name="lcn-service" />
+        <module name="lcn-busi" />
+        <module name="seata-busi" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lcn-busi" target="1.7" />
+      <module name="lcn-service" target="1.7" />
+      <module name="lcn-tm" target="1.7" />
+      <module name="seata-busi" target="1.7" />
+      <module name="seata-service" target="1.7" />
+      <module name="trans" target="1.7" />
+      <module name="trans-busi" target="1.7" />
+      <module name="trans-lcn" target="1.7" />
+      <module name="trans-seata" target="1.7" />
+      <module name="trans-xa" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

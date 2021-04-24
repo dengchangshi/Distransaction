@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/trans-lcn/lcn-busi/lcn-busi.iml" filepath="$PROJECT_DIR$/trans-lcn/lcn-busi/lcn-busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-lcn/lcn-service/lcn-service.iml" filepath="$PROJECT_DIR$/trans-lcn/lcn-service/lcn-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-lcn/lcn-tm/lcn-tm.iml" filepath="$PROJECT_DIR$/trans-lcn/lcn-tm/lcn-tm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-seata/seata-busi/seata-busi.iml" filepath="$PROJECT_DIR$/trans-seata/seata-busi/seata-busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-seata/seata-service/seata-service.iml" filepath="$PROJECT_DIR$/trans-seata/seata-service/seata-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans.iml" filepath="$PROJECT_DIR$/trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-busi/trans-busi.iml" filepath="$PROJECT_DIR$/trans-busi/trans-busi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-lcn/trans-lcn.iml" filepath="$PROJECT_DIR$/trans-lcn/trans-lcn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-seata/trans-seata.iml" filepath="$PROJECT_DIR$/trans-seata/trans-seata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trans-xa/trans-xa.iml" filepath="$PROJECT_DIR$/trans-xa/trans-xa.iml" />
+    </modules>
+  </component>
+</project>
